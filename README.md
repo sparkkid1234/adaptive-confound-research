@@ -1,5 +1,5 @@
 # Adaptive Confound
-Virgile and Tuan's project on controlling for confounds adaptively
+Code files and notebooks for the paper "Discovering and controlling for latent confounds in text classification using adversarial domain adaption" (Landeiro V., Tran T., Culotta A., SDM19)
 
 ## Replicate the environment
 
